@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
 import App from "./App";
 // import "@wissakib/fontawesome-free-6.5.1-web";
 import "bootstrap/dist/css/bootstrap.min.css";
